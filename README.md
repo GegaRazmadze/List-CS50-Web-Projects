@@ -25,7 +25,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
    <li>:tshirt: Second: Commerce - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-commerce.herokuapp.com/">Live</a></li>
   <li>:books: Third: Mail - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-books.herokuapp.com/">Live</a></li>
    <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-network.herokuapp.com/">Live</a></li>
-   <li>:newspaper: Final project: Jokes - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-Jokes.herokuapp.com/">Live</a></li>
+   <li>:newspaper: Final project: Jokes - 2020 Course version <a href="https://github.com/Puentnuar/joke">Github</a> - :fast_forward: <a href="https://#-Jokes.herokuapp.com/">Live</a></li>
 </ul>
 
 
