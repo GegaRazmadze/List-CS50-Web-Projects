@@ -2,7 +2,7 @@
 
 I'm Gega - Web Developer. This is the list of my projects for the course CS50’s Web Programming with Python and JavaScript.
 
-<a href="https://cs50.harvard.edu/web/2020/">
+<a href="https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax">
   Link to CS50's Web Programming course 
 </a>
 
@@ -21,7 +21,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 
 ### List of my Projects
 <ul>
-  <li>:bookmark_tabs: First : Wiki - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https:/#-wiki.herokuapp.com/">Live</a></li>
+  <li>:bookmark_tabs: First : Wiki - 2020 Course version <a href="https://github.com/Puentnuar/wiki">Github</a> - :fast_forward: <a href="https:/#-wiki.herokuapp.com/">Live</a></li>
    <li>:tshirt: Second: Commerce - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-commerce.herokuapp.com/">Live</a></li>
   <li>:books: Third: Mail - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-books.herokuapp.com/">Live</a></li>
    <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com">Github</a> - :fast_forward: <a href="https://#-network.herokuapp.com/">Live</a></li>
@@ -44,3 +44,4 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+ 
