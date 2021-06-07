@@ -21,7 +21,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
 
 ### List of my Projects
 <ul>
-  <li>:bookmark_tabs: First : Wiki - 2020 Course version <a href="https://github.com/Puentnuar/wiki-python">Github</a> - :fast_forward: <a href="https://github.com/Puentnuar/wiki">Live</a></li>
+  <li>:bookmark_tabs: First : Wiki - 2020 Course version <a href="https://github.com/Puentnuar/wiki-python">Github</a> - :fast_forward: <a href="https://wiki-python-django.herokuapp.com/">Live</a></li>
    <li>:tshirt: Second: Commerce - 2020 Course version <a href="https://github.com/Puentnuar/commerce-python">Github</a> - :fast_forward: <a href="https://github.com/Puentnuar/commerce">Live</a></li>
   <li>:books: Third: Mail - 2020 Course version <a href="https://github.com/Puentnuar/mail-python">Github</a> - :fast_forward: <a href="https://github.com/Puentnuar/mail">Live</a></li>
    <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com/Puentnuar/network-python">Github</a> - :fast_forward: <a href="https://github.com/Puentnuar/network">Live</a></li>
