@@ -24,7 +24,7 @@ CS50’s Web Programming with Python and JavaScript picks up where Harvard Unive
   <li>:bookmark_tabs: First : Wiki - 2020 Course version <a href="https://github.com/Puentnuar/wiki-python">Github</a> - :fast_forward: <a href="https://wiki-python-django.herokuapp.com/">Live</a></li>
    <li>:tshirt: Second: Commerce - 2020 Course version <a href="https://github.com/Puentnuar/e-commerce-python">Github</a> - :fast_forward: <a href="https://e-commerce-python-django.herokuapp.com/">Live</a></li>
   <li>:books: Third: Mail - 2020 Course version <a href="https://github.com/Puentnuar/mail-python">Github</a> - :fast_forward: <a href="https://mail-python-django.herokuapp.com/login">Live</a></li>
-   <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com/Puentnuar/network-python">Github</a> - :fast_forward: <a href="https://github.com/Puentnuar/network">Live</a></li>
+   <li>:mailbox: Fourth: Network - 2020 Course version <a href="https://github.com/Puentnuar/network-python">Github</a> - :fast_forward: <a href="https://network-python-django.herokuapp.com/">Live</a></li>
    <li>:newspaper: Final project: Jokes - 2020 Course version <a href="https://github.com/Puentnuar/joke-python">Github</a> - :fast_forward: <a href="https://joke-python-django.herokuapp.com/">Live</a></li>
 </ul>
 
